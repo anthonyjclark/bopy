@@ -1,0 +1,14 @@
+
+
+var y = 1234.5678e-9012
+let j = 6.012e-5
+if true {
+    y = 5
+}
+let x = 5
+let s = "Hello"
+
+func f(x: int, y: int) -> int {
+    let something = x
+}
+let a = x(j, y)

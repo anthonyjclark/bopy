@@ -1,0 +1,10 @@
+{
+    "antlr4.generation": {
+        "mode": "external",
+        "outputDir": "src/edu/bopy",
+        "package": "edu.bopy",
+        "language": "Java",
+        "listeners": true,
+        "visitors": false
+    }
+}
